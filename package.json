@@ -1,10 +1,10 @@
 {
-  "name": "welcome-master",
-  "version": "0.36.9",
+  "name": "metasota-package-3",
+  "version": "0.0.0",
   "description": "Welcome users to Atom with useful information",
   "main": "./lib/main",
   "atomTestRunner": "atom-mocha-test-runner",
-  "repository": "https://github.com/atom/welcome",
+  "repository": "https://github.com/zll393524357/welcome-master.git",
   "license": "MIT",
   "engines": {
     "atom": ">0.50.0"
